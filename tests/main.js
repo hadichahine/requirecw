@@ -1,4 +1,4 @@
-const cwrequire = require('../source/cwrequire.js');
+const cwrequire = require('../source/requirecw.js');
 
 console.log("Single Require");
 try {

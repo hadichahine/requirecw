@@ -1,13 +1,13 @@
 {
-  "name": "cwrequirejs",
-  "version": "1.0.0",
-  "description": "",
+  "name": "requirecw",
+  "version": "0.5.0",
+  "description": "Read configuration from file wrapper for requireJS.",
   "main": "source/cwrequire.js",
   "scripts": {
     "test": "cd tests && node main.js",
     "release": "./release.sh"
   },
-  "author": "",
+  "author": "Hadi Chahine",
   "license": "ISC",
   "dependencies": {
     "requirejs": "^2.3.6"
