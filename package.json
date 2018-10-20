@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "requirejs": "^2.3.6"
+  },
+  "devDependencies": {
+    "json": "^9.0.6"
   }
 }
