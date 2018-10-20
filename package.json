@@ -2,12 +2,12 @@
   "name": "cwrequirejs",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "source/cwrequire.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cd tests && node main.js"
   },
   "author": "",
   "license": "ISC",
