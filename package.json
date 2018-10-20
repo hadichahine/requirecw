@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "source/cwrequire.js",
-  "directories": {
-    "test": "tests"
-  },
   "scripts": {
-    "test": "cd tests && node main.js"
+    "test": "cd tests && node main.js",
+    "release": "./release.sh"
   },
   "author": "",
   "license": "ISC",
