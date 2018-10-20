@@ -1,5 +1,5 @@
 define(() => {
 	return function(){
-		console.log("Test passed - Module Linked Successfully.");
+		console.log("1.js - Test passed - Module Linked Successfully.");
 	}
 });
