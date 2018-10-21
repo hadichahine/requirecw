@@ -5,7 +5,8 @@
   "main": "source/cwrequire.js",
   "scripts": {
     "test": "cd tests && node main.js",
-    "release": "./release.sh"
+    "release": "./release.sh",
+    "npmize": "cd release && npm publish"
   },
   "author": "Hadi Chahine",
   "license": "ISC",
